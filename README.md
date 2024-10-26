@@ -1,10 +1,6 @@
 # Weather-Application
 
-A weather application project using HTML, CSS, and JavaScript is an excellent way to demonstrate your web development skills by building a functional, user-friendly app that displays real-time weather data.
-
-Purpose-
-To create a simple weather application that allows users to check the current weather in any city. 
-Features-
+A weather application is a software tool that provides real-time weather information, forecasts, and related data. It pulls data from weather sources or APIs to display conditions like temperature, humidity, wind speed, and precipitation.
 Fetches real-time weather data from an API, displays temperature, humidity, wind speed, and an icon representing the weather conditions.
 
 Technologies Used -
@@ -17,4 +13,4 @@ Project Structure -
 
 Index.html: The main HTML file containing the structure, including input fields, display sections for weather details, and placeholders for error messages.
 Styles.css: A CSS file that defines the design, colors, fonts, and responsive adjustments for different screen sizes.
-Script.js: A JavaScript file for fetching data from the weather API, processing user input, and dynamically updating the display with current weather information.
+main.js: A JavaScript file for fetching data from the weather API, processing user input, and dynamically updating the display with current weather information.
