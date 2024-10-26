@@ -64,7 +64,7 @@
           .catch(error => console.error('Error fetching weather data:', error));
       } catch (error) {
         console.error('Error fetching weather data:', error);
-        // Display an error message to the user
+        
       }
     });
   });
